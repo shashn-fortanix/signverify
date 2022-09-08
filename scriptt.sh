@@ -1,2 +1,2 @@
-#!/bin/sh
+#!/bin/go
 go run hello.go
