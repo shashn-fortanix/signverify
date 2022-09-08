@@ -1,4 +1,4 @@
-//~/bin/go run $0 $@ ; exit
+#!/bin/go run $0 $@ ; exit
 package main
 
 import "fmt"
