@@ -1,2 +1,2 @@
 #!/bin/sh
-go run hello.go
+echo "hi shashi"
