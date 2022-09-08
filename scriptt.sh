@@ -1,2 +1,8 @@
-#!/bin/sh
-go run signverify/hello.go
+//~/bin/go run $0 $@ ; exit
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello shash!")
+}
