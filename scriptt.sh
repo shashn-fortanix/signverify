@@ -1,8 +1,2 @@
-#!/bin/go run $0 $@ ; exit
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello shash!")
-}
+#!/bin/sh
+go run hello.go
